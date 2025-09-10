@@ -124,6 +124,6 @@ It demonstrates the power of Tableau in **data storytelling, interactive dashboa
 ---
 
 ## 📝 Author
-- **Shinju Benzeer**
+- **Shinju**
 - Aspiring **Data Analyst / Business Analyst**
 - Skills: Tableau, Power BI, SQL, Data Visualization, Business Analytics
