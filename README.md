@@ -98,8 +98,15 @@ The objective is to uncover insights into **book performance, pricing trends, an
 ---
 
 ## 📷 Dashboard Previews
-*(Add screenshots of your Tableau dashboards here once exported as images)*
 
+### 1. Book Overview
+![Book Overview](Book%20Analysis.png)
+
+### 2. Price Analysis
+![Price Analysis](Price%20Analysis.png)
+
+### 3. Sales Dynamics
+![Sales Dynamics](Sales%20Dynamics.png)
 ---
 
 ## 🚀 How to Use
